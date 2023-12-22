@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(236, 216, 189);
+}
+h1 {
+  color: rgb(153, 82, 1);
+}
+
+div.foto {
+  width: 300px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding: 10px;
+  border: 1px solid;
+  border-radius: 15px;
+  border-color: rgb(138, 70, 7);
+  background-color: rgb(212, 167, 125);
+}
